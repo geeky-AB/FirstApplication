@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="name">Name</string>
+    <string name="cls">Class</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="save">Save</string>
+</resources>
